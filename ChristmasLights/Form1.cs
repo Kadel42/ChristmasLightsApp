@@ -10,7 +10,7 @@ namespace ChristmasLights
 
         public Form1()
         {
-            InitializeComponent();
+                InitializeComponent();
             delayTextBox.Text = delay.ToString();
         }
 
